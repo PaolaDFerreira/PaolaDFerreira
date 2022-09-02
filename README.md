@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paola Daudt Ferreira</h1>
 <h3 align="center">Always trying to learn something new</h3>
 
-- 🌱 I’m currently learning **: HTML, CSS and information security.**
+- 🌱 I’m currently learning **: HTML, CSS, Python and information security.**
 
 - 📫 How to reach me **: PDF857@outlook.com**
 
